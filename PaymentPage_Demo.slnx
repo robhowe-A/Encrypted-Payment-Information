@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="paymentpage_demo.client/paymentpage_demo.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="PaymentPage_Demo.Server/PaymentPage_Demo.Server.csproj" />
+</Solution>
