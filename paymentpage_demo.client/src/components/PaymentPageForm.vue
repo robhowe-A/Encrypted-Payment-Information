@@ -227,7 +227,7 @@ onMounted( ()=> {
     <br>The below form simulates a payment processing flow, encrypting sensitive card information before submission.
   </p>
   <br>
-  <p>README: <a href="https://docs.rhdeveloping.com/content/private-payment-information-demo-readme.html" title="Payment Information Demo (private repository) — Docs" rel="nofollow noreferrer" target="_blank">Payment Information Demo (private repository) — Docs</a><br><br></p><hr><br><br>
+  <p>README: <a href="https://docs.rhdeveloping.com/content/payment-information-demo-readme.html" title="Payment Information Demo — Docs" rel="nofollow noreferrer" target="_blank">Payment Information Demo — Docs</a><br><br></p><hr><br><br>
     <form
       action="confirmation"
       method="post"
